@@ -15,7 +15,7 @@
 The goal of this project is to show my portfolio to the world.
 
 ## Screenshots
-![Example screenshot](Natours.PNG)
+![Example screenshot](./public/img/Natours.PNG)
 
 ## Technologies
 * Visual Studio Code
